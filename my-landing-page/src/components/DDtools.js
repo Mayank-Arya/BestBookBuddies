@@ -1,5 +1,5 @@
 import React from 'react';
-import './DDtools.css';
+import './CSS/DDtools.css';
 
 import diamond from './assets/diamond.svg';
 import react from './assets/react.svg';

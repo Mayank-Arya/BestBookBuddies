@@ -9,6 +9,8 @@ import DDtools from './components/DDtools';
 import Features from './components/Features';
 import UItemplate from './components/UItemplate';
 import Footer1 from './components/Footer1';
+import Circle from './components/Circle';
+
 import './App.css';
 
 function App() {
@@ -19,12 +21,12 @@ function App() {
       <Profile/>
       <Key/>
       <Card/>
-
-
+      <Circle/>
       <DDtools/>
       <Features/>
       <UItemplate/>
       <Footer1/>
+      
     </div>
   );
 }

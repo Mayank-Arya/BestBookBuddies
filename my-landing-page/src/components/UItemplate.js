@@ -1,5 +1,5 @@
 import React from 'react'
-import './UItemplate.css'
+import './CSS/UItemplate.css'
 
 
 function UItemplate(){

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button } from 'react-bootstrap';
 // import { ReactComponent as PlayIcon } from './play-button.svg'; // Make sure the path is correct
-import './Header.css';
+import './CSS/Header.css';
 
 function Header() {
   return (

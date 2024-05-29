@@ -3,7 +3,7 @@
 import React from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
 import logo from './assets/logo.svg'; // Adjust path as per your structure
-import './Navbar.css'; // Ensure this import is present
+import './CSS/Navbar.css'; // Ensure this import is present
 
 function CustomNavbar() {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import './Profile.css'; // CSS file for styling
+import './CSS/Profile.css'; // CSS file for styling
 import heart from './assets/heart.svg'
 import eye from './assets/eye.svg'
 import tag from './assets/tag.svg'

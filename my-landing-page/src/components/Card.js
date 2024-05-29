@@ -1,5 +1,5 @@
 import React from 'react';
-import './Card.css';
+import './CSS/Card.css';
 
 import flexible from './assets/flexibleGrid.svg';
 import style from './assets/styleGrid.svg';
