@@ -1,0 +1,29 @@
+.mainDiv{
+    width: 90%;
+    height: auto;
+    margin-top: 5%;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid black; */
+    /* gap: 10px; */
+    margin-left: auto;
+}
+
+.mainDiv>div{
+    height: 100%;
+    width: 20%;
+    /* border: 1px solid black; */
+}
+
+.mainDiv>div>h3{
+    font-size: 40px;
+    font-weight: bolder;
+    color: black;
+}
+
+.mainDiv>div>p{
+    color: rgb(71, 70, 70);
+    font-size: 15px;
+    margin-top: 10%;
+}

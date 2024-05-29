@@ -1,0 +1,27 @@
+.mainDiv3{
+    display: flex;
+    /* border: 1px solid black; */
+    width: 60%;
+
+    gap: 80px;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: centere;
+    margin-top: 7%;
+}
+
+.mainDiv3>div{
+    
+    text-align: left;
+}
+
+.mainDiv3>div>h5{
+    font-size: 15px;
+    color: black;
+}
+
+.mainDiv3>div>p{
+    color: grey;
+    font-size: 15px;
+}

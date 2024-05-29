@@ -5,7 +5,7 @@ import './Header.css';
 
 function Header() {
   return (
-    <div className="header">
+    <div className="headers">
       <h1>Design System for React JS</h1>
       <p>
         Atomize React is a UI framework that helps developers collaborate with

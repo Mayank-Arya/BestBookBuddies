@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './Profile.css'; // CSS file for styling
 import heart from './assets/heart.svg'
 import eye from './assets/eye.svg'
@@ -75,13 +75,13 @@ const Profile = () => {
         <form>
           <div className="input-group">
             <input type="email" placeholder="johndoe@gmail.com" />
-            <span className="email-icon">📧</span>
+            {/* <span className="email-icon"></span> */}
           </div>
           <div className="input-group">
             <input type="password" placeholder="Password" />
-            <span className="password-icon">👁️</span>
+            {/* <span className="password-icon"></span> */}
           </div>
-          <button type="submit">Login</button>
+          <button className="login-button" type="submit">Login</button>
         </form>
       </div>
     </div>
