@@ -10,7 +10,7 @@
   z-index: 1000;           /* Ensure it stays above other elements */
   padding: 0;              /* Remove any padding */
   margin: 0;               /* Remove any margin */
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
 
 .custom-navbar {
@@ -33,13 +33,14 @@
 }
 
 .custom-navbar .nav-link {
-  color: rgb(117, 112, 112);
+  color: grey;
   margin-right: 15px;
-  font-weight: bold;
+  font-size: 14;
+  font-weight:500;
 }
 
 .custom-navbar .nav-link:hover {
-  color: #007bff; /* Primary button color */
+  color: #5c6363; /* Primary button color */
 }
 
 .custom-navbar .doc-button {
@@ -58,6 +59,6 @@
 
 
 .custom-navbar .doc-button:hover {
-  background-color: #0056b3; /* Darker shade for hover */
-  color: white;
+  background-color: rgb(170, 166, 166); /* Darker shade for hover */
+  color: rgb(29, 27, 27);
 }
